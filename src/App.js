@@ -1,7 +1,5 @@
 import logo from "./logo.svg";
 import "./App.css";
-import "./javaScriptPrctice/part1/4.map_collection";
-
 function App() {
   return (
     <div className="container text-center">
